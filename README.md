@@ -2,6 +2,9 @@
 ### Smart Campus Canteen Management & Online Food Ordering Platform
 > **Tagline:** *Your campus canteen, without the chaos.*
 
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/Kowkoorvamshikrishnareddy/canteenflow)
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-181717?logo=github)](https://github.com/Kowkoorvamshikrishnareddy/canteenflow)
+
 ---
 
 ## 1. Overview & Vision
